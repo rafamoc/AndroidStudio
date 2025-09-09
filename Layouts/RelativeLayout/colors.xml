@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="bg">#FFFFFFFF</color>
+    <color name="redBrand">#fe0002</color>
+    <color name="textStrong">#333333</color>
+    <color name="textMuted">#6F6F6F</color>
+    <color name="divider">#1F000000</color>
+</resources>
